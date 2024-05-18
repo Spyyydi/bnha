@@ -1,5 +1,5 @@
 # Table of contents
-1. [All For One - Все За Одного](#All%20For%20One%20-%20Все%20За%20Одного)
+1. [All For One - Все За Одного](#All For One - Все За Одного)
 1. [All Might - Всемогущий](#All%20Might%20-%20Всемогущий)
 1. [Cathleen Bate - Кэтлин Бейт](#Cathleen%20Bate%20-%20Кэтлин%20Бейт)
 1. [Dabi - Даби](#Dabi%20-%20Даби)
