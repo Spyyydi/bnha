@@ -43,7 +43,9 @@
 
 ## All For One - Все За Одного
 All For One - Все За Одного
+
 ![All For One | 200](<https://desu.shikimori.one/uploads/poster/characters/141358/main-5dd61aed7e9eaa3978320566391b010a.webp>)
+
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
