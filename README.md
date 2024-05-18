@@ -1,6 +1,6 @@
 # Table of contents
-1. [All For One - Все За Одного](#All For One - Все За Одного)
-1. [All Might - Всемогущий](#All%20Might%20-%20Всемогущий)
+1. [All For One - Все За Одного](# All For One - Все За Одного)
+1. [All Might - Всемогущий](#%20All%20Might%20-%20Всемогущий)
 1. [Cathleen Bate - Кэтлин Бейт](#Cathleen%20Bate%20-%20Кэтлин%20Бейт)
 1. [Dabi - Даби](#Dabi%20-%20Даби)
 1. [Denki Kaminari - Дэнки Каминари](#Denki%20Kaminari%20-%20Дэнки%20Каминари)
