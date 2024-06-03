@@ -1,43 +1,54 @@
 # Table of contents
 1. [All For One - Все За Одного](#all-for-one---все-за-одного)
 1. [All Might - Всемогущий](#all-might---всемогущий)
-1. [Cathleen Bate - Кэтлин Бейт](#cathleen-bate---кэтлин-бейт)
+1. [Cathleen Bate (Star and Stripe) - Кэтлин Бейт](#cathleen-bate-star-and-stripe---кэтлин-бейт)
 1. [Dabi - Даби](#dabi---даби)
 1. [Denki Kaminari - Дэнки Каминари](#denki-kaminari---дэнки-каминари)
 1. [Eijirou Kirishima - Эйдзиро Киришима](#eijirou-kirishima---эйдзиро-киришима)
-1. [Enji Todoroki - Эндзи Тодороки](#enji-todoroki---эндзи-тодороки)
+1. [Enji Todoroki (Endeavor) - Эндзи Тодороки](#enji-todoroki-endeavor---эндзи-тодороки)
 1. [Fumikage Tokoyami - Фумикагэ Токоями](#fumikage-tokoyami---фумикагэ-токоями)
 1. [Hanta Sero - Ханта Сэро](#hanta-sero---ханта-сэро)
+1. [Higari Maijima (Power Loader) - Хигари Маидзима](#higari-maijima-power-loader---хигари-маидзима)
 1. [Himiko Toga - Химико Тога](#himiko-toga---химико-тога)
+1. [Hitoshi Shinsou (Shinso) - Хитоши Шинсо](#hitoshi-shinsou-shinso---хитоши-шинсо)
 1. [Hizashi Yamada (Present Mic) - Хизаши Ямада](#hizashi-yamada-present-mic---хизаши-ямада)
 1. [Izuku Midoriya - Идзуку Мидория](#izuku-midoriya---идзуку-мидория)
 1. [Katsuki Bakugou - Кацуки Бакуго](#katsuki-bakugou---кацуки-бакуго)
-1. [Keigo Takami - Кэйго Таками](#keigo-takami---кэйго-таками)
+1. [Keigo Takami (Hawks) - Кэйго Таками](#keigo-takami-hawks---кэйго-таками)
+1. [Kota Izumi - Кота Идзуми](#kota-izumi---кота-идзуми)
 1. [Kouji Kouda (Koda) - Кодзи Кода](#kouji-kouda-koda---кодзи-кода)
 1. [Kyouka Jirou - Кёка Дзиро](#kyouka-jirou---кёка-дзиро)
 1. [Mashirao Ojiro - Масирао Одзиро](#mashirao-ojiro---масирао-одзиро)
+1. [Mei Hatsume - Мэй Хацумэ](#mei-hatsume---мэй-хацумэ)
 1. [Mezou Shouji (Shoji) - Мэдзо Сёдзи](#mezou-shouji-shoji---мэдзо-сёдзи)
 1. [Mina Ashido - Мина Ашидо](#mina-ashido---мина-ашидо)
 1. [Minoru Mineta - Минору Минэта](#minoru-mineta---минору-минэта)
 1. [Mirio Toogata - Мирио Тогата](#mirio-toogata---мирио-тогата)
 1. [Momo Yaoyorozu - Момо Яоёрозу](#momo-yaoyorozu---момо-яоёрозу)
-1. [Naomasa Tsukauchi - Наомаса Цукаучи](#naomasa-tsukauchi---наомаса-цкаучи)
+1. [Naomasa Tsukauchi - Наомаса Цукаучи](#naomasa-tsukauchi---наомаса-цукаучи)
 1. [Nejire Hadou - Нэдзирэ Хадо](#nejire-hadou---нэдзирэ-хадо)
-1. [Ochako Uraraka - Очако Урарака](#ochako-uraraka---очако-урарака)
+1. [Ochako Uraraka (Ochaco) - Очако Урарака](#ochako-uraraka-ochaco---очако-урарака)
 1. [Principal Nezu - Директор Нэдзу](#principal-nezu---директор-нэдзу)
 1. [Rikidou Satou - Рикидо Сато](#rikidou-satou---рикидо-сато)
 1. [Rumi Usagiyama - Руми Усагияма](#rumi-usagiyama---руми-усагияма)
+1. [Ryuuko Tatsuma (Ryukyu) - Рюко Тацума](#ryuuko-tatsuma-ryukyu---рюко-тацума)
+1. [Sansa Tamakawa - Санса Тамакава](#sansa-tamakawa---санса-тамакава)
 1. [Shinya Kamihara - Синъя Камихара](#shinya-kamihara---синъя-камихара)
 1. [Shouta Aizawa - Сёта Айдзава](#shouta-aizawa---сёта-айдзава)
 1. [Shouto Todoroki - Сёто Тодороки](#shouto-todoroki---сёто-тодороки)
-1. [Shuuichi Iguchi - Сюити Игути](#shuuichi-iguchi---сюити-игути)
+1. [Shuuichi Iguchi (Spinner) - Шуичи Игучи](#shuuichi-iguchi-spinner---шуичи-игучи)
+1. [Snipe - Стрелок](#snipe---стрелок)
+1. [Taishirou Toyomitsu (Fatgum) - Тайсиро Тоёмицу](#taishirou-toyomitsu-fatgum---тайсиро-тоёмицу)
 1. [Tamaki Amajiki - Тамаки Амадзики](#tamaki-amajiki---тамаки-амадзики)
 1. [Tenya Iida - Тэнъя Ида](#tenya-iida---тэнъя-ида)
-1. [Tomura Shigaraki - Томура Шигараки](#tomura-shigaraki---томура-шигаpaки)
+1. [Tomoko Shiretoko (Ragdoll) - Томоко Сирэтоко](#tomoko-shiretoko-ragdoll---томоко-сирэтоко)
+1. [Tomoyasu Chikazoku (Skeptic) - Томоясу Чиказоку](#tomoyasu-chikazoku-skeptic---томоясу-чиказоку)
+1. [Tomura Shigaraki - Томура Шигараки](#tomura-shigaraki---томура-шигараки)
 1. [Tooru Hagakure - Тору Хагакурэ](#tooru-hagakure---тору-хагакурэ)
 1. [Tsunagu Hakamada - Цунагу Хакамата](#tsunagu-hakamada---цунагу-хакамата)
 1. [Tsuyu Asui - Цую Асуй](#tsuyu-asui---цую-асуй)
 1. [Yuuga Aoyama - Юга Аояма](#yuuga-aoyama---юга-аояма)
+1. [Yuu Takeyama (Mt. Lady) - Ю Такэяма](#yuu-takeyama-mt-lady---ю-такэяма)
 
 ---
 
@@ -57,8 +68,8 @@ All Might - Всемогущий
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
-## Cathleen Bate - Кэтлин Бейт
-Cathleen Bate - Кэтлин Бейт
+## Cathleen Bate (Star and Stripe) - Кэтлин Бейт
+Cathleen Bate (Star and Stripe) - Кэтлин Бейт
 
 ![Cathleen Bate | 200](<https://desu.shikimori.one/uploads/poster/characters/202728/main-c84b89065f5067205ebdc3c1a920b103.webp>)
 
@@ -89,8 +100,8 @@ Eijirou Kirishima - Эйдзиро Киришима
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
-## Enji Todoroki - Эндзи Тодороки
-Enji Todoroki - Эндзи Тодороки
+## Enji Todoroki (Endeavor) - Эндзи Тодороки
+Enji Todoroki (Endeavor) - Эндзи Тодороки
 
 ![Enji Todoroki | 200](<https://desu.shikimori.one/uploads/poster/characters/141624/main-bb187033a57c6314adcc769a51318856.webp>)
 
@@ -113,10 +124,26 @@ Hanta Sero - Ханта Сэро
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
+## Higari Maijima (Power Loader) - Хигари Маидзима
+[Higari Maijima (Power Loader) - Хигари Маидзима](https://shikimori.one/characters/142023-higari-maijima)
+
+![Higari Maijima | 200](<https://desu.shikimori.one/uploads/poster/characters/142023/main-d4b69249aa15d88b5d6ae8964e14d1ab.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
 ## Himiko Toga - Химико Тога
 Himiko Toga - Химико Тога
 
 ![Himiko Toga | 200](<https://desu.shikimori.one/uploads/poster/characters/135879/main-d26b9d0947f2b21197aab0db4b1d68c1.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Hitoshi Shinsou (Shinso) - Хитоши Шинсо
+[Hitoshi Shinsou (Shinso) - Хитоши Шинсо](https://shikimori.one/characters/125935-hitoshi-shinsou)
+
+![Hitoshi Shinsou | 200](<https://desu.shikimori.one/uploads/poster/characters/125935/main-042d487a9eeb5fcf4b70f69c7eeb2052.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
@@ -145,10 +172,18 @@ Katsuki Bakugou - Кацуки Бакуго
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
-## Keigo Takami - Кэйго Таками
-Keigo Takami - Кэйго Таками
+## Keigo Takami (Hawks) - Кэйго Таками
+Keigo Takami (Hawks) - Кэйго Таками
 
 ![Keigo Takami | 200](<https://desu.shikimori.one/uploads/poster/characters/162597/main-f00105a40135311037a2c018d1c0b88c.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Kota Izumi - Кота Идзуми
+[Kota Izumi - Кота Идзуми](https://shikimori.one/characters/151552-kouta-izumi)
+
+![Kota Izumi | 200](<https://desu.shikimori.one/uploads/poster/characters/151552/main-ba1a3a141eecc74da65d13f42da6cd1e.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
@@ -173,6 +208,14 @@ Kyouka Jirou - Кёка Дзиро
 Mashirao Ojiro - Масирао Одзиро
 
 ![Mashirao Ojiro | 200](<https://desu.shikimori.one/uploads/poster/characters/138883/main-2f6df44d83b6e5e828ce533d8882c0ac.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Mei Hatsume - Мэй Хацумэ
+[Mei Hatsume - Мэй Хацумэ](https://shikimori.one/characters/126700-mei-hatsume)
+
+![Mei Hatsume | 200](<https://desu.shikimori.one/uploads/poster/characters/126700/main-f076b80971ac073038f705bd46352e74.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
@@ -233,8 +276,8 @@ Nejire Hadou - Нэдзирэ Хадо
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
-## Ochako Uraraka - Очако Урарака
-Ochako Uraraka - Очако Урарака
+## Ochako Uraraka (Ochaco) - Очако Урарака
+[Ochako Uraraka (Ochaco) - Очако Урарака](https://shikimori.one/characters/117917-ochako-uraraka)
 
 ![Ochako Uraraka | 200](<https://desu.shikimori.one/uploads/poster/characters/117917/main-cdc44c5d234b31927e771cdbfb88f869.webp>)
 
@@ -265,6 +308,22 @@ Rumi Usagiyama - Руми Усагияма
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
+## Ryuuko Tatsuma (Ryukyu) - Рюко Тацума
+[Ryuuko Tatsuma (Ryukyu) - Рюко Тацума](https://shikimori.one/characters/149922-ryuuko-tatsuma)
+
+![Ryuuko Tatsuma | 200](<https://desu.shikimori.one/uploads/poster/characters/149922/main-edbc81fa014e00ae452b2ec0150e3373.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Sansa Tamakawa - Санса Тамакава
+[Sansa Tamakawa - Санса Тамакава](https://shikimori.one/characters/142022-sansa-tamakawa)
+
+![Sansa Tamakawa | 200](<https://desu.shikimori.one/uploads/poster/characters/142022/main-af87eb453dba40a72f48d773238a0a9e.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
 ## Shinya Kamihara - Синъя Камихара
 Shinya Kamihara - Синъя Камихара
 
@@ -289,10 +348,26 @@ Shouto Todoroki - Сёто Тодороки
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
-## Shuuichi Iguchi - Сюити Игути
-Shuuichi Iguchi - Сюити Игути
+## Shuuichi Iguchi (Spinner) - Шуичи Игучи
+[Shuuichi Iguchi (Spinner) - Шуичи Игучи](https://shikimori.one/characters/153643-shuuichi-iguchi)
 
 ![Shuuichi Iguchi | 200](<https://desu.shikimori.one/uploads/poster/characters/153643/main-690d2770ffd995617c887accc43967e2.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Snipe - Стрелок
+[Snipe - Стрелок](https://shikimori.one/characters/141626-snipe)
+
+![Snipe | 200](<https://desu.shikimori.one/uploads/poster/characters/141626/main-71dcaa4bcf19d5b82203536c1fc5516e.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Taishirou Toyomitsu (Fatgum) - Тайсиро Тоёмицу
+[Taishirou Toyomitsu (Fatgum) - Тайсиро Тоёмицу](https://shikimori.one/characters/153879-taishirou-toyomitsu)
+
+![Taishirou Toyomitsu | 200](<https://desu.shikimori.one/uploads/poster/characters/153879/main-20ef8bb6f922edd6bd1b6dd6c9ff5911.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
@@ -309,6 +384,22 @@ Tamaki Amajiki - Тамаки Амадзики
 Tenya Iida - Тэнъя Ида
 
 ![Tenya Iida | 200](<https://desu.shikimori.one/uploads/poster/characters/117913/main-20e1a861d741f98b2df290d7120bf3f5.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Tomoko Shiretoko (Ragdoll) - Томоко Сирэтоко
+[Tomoko Shiretoko (Ragdoll) - Томоко Сирэтоко](https://shikimori.one/characters/141604-tomoko-shiretoko)
+
+![Tomoko Shiretoko | 200](<https://desu.shikimori.one/uploads/poster/characters/141604/main-530b5e1f5aeb030abefebea85101eec7.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Tomoyasu Chikazoku (Skeptic) - Томоясу Чиказоку
+[Tomoyasu Chikazoku (Skeptic) - Томоясу Чиказоку](https://shikimori.one/characters/174419-tomoyasu-chikazoku)
+
+![Tomoyasu Chikazoku | 200](<https://desu.shikimori.one/uploads/poster/characters/174419/main-feccdab916f7156339815cbc0f30867a.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
@@ -349,6 +440,14 @@ Tsuyu Asui - Цую Асуй
 Yuuga Aoyama - Юга Аояма
 
 ![Yuuga Aoyama | 200](<https://desu.shikimori.one/uploads/poster/characters/117919/main-26362141acdfd79a18c13cf47a3baa46.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Yuu Takeyama (Mt. Lady) - Ю Такэяма
+[Yuu Takeyama (Mt. Lady) - Ю Такэяма](https://shikimori.one/characters/139042-yuu-takeyama)
+
+![Yuu Takeyama | 200](<https://desu.shikimori.one/uploads/poster/characters/139042/main-71ed4ade6fbadaacb3ebb5157bb1b19d.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
