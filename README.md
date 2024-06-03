@@ -53,7 +53,7 @@
 ---
 
 ## All For One - Все За Одного
-All For One - Все За Одного
+[All For One - Все За Одного](https://shikimori.one/characters/141358-all-for-one)
 
 ![All For One | 200](<https://desu.shikimori.one/uploads/poster/characters/141358/main-5dd61aed7e9eaa3978320566391b010a.webp>)
 
@@ -61,7 +61,7 @@ All For One - Все За Одного
 
 ---
 ## All Might - Всемогущий
-All Might - Всемогущий
+[All Might - Всемогущий](https://shikimori.one/characters/117921-all-might)
 
 ![All Might | 200](<https://desu.shikimori.one/uploads/poster/characters/117921/main-dcaa5ffc8cd6fa6f9b632a6a39ca79c7.webp>)
 
@@ -69,7 +69,7 @@ All Might - Всемогущий
 
 ---
 ## Cathleen Bate (Star and Stripe) - Кэтлин Бейт
-Cathleen Bate (Star and Stripe) - Кэтлин Бейт
+[Cathleen Bate (Star and Stripe) - Кэтлин Бейт](https://shikimori.one/characters/202728-cathleen-bate)
 
 ![Cathleen Bate | 200](<https://desu.shikimori.one/uploads/poster/characters/202728/main-c84b89065f5067205ebdc3c1a920b103.webp>)
 
@@ -77,7 +77,7 @@ Cathleen Bate (Star and Stripe) - Кэтлин Бейт
 
 ---
 ## Dabi - Даби
-Dabi - Даби
+[Dabi - Даби](https://shikimori.one/characters/139262-dabi)
 
 ![Dabi | 200](<https://desu.shikimori.one/uploads/poster/characters/139262/main-01fe7a4d64122f5bcf5e19c6a4f5351c.webp>)
 
@@ -85,7 +85,7 @@ Dabi - Даби
 
 ---
 ## Denki Kaminari - Дэнки Каминари
-Denki Kaminari - Дэнки Каминари
+[Denki Kaminari - Дэнки Каминари](https://shikimori.one/characters/118657-denki-kaminari)
 
 ![Denki Kaminari | 200](<https://desu.shikimori.one/uploads/poster/characters/118657/main-1e1ac2a938d7a2f0f8279b474da1f74f.webp>)
 
@@ -93,7 +93,7 @@ Denki Kaminari - Дэнки Каминари
 
 ---
 ## Eijirou Kirishima - Эйдзиро Киришима
-Eijirou Kirishima - Эйдзиро Киришима
+[Eijirou Kirishima - Эйдзиро Киришима](https://shikimori.one/characters/118487-eijirou-kirishima)
 
 ![Eijirou Kirishima | 200](<https://desu.shikimori.one/uploads/poster/characters/118487/main-6ea5a4f89511622ed76c8884bb286155.webp>)
 
@@ -101,7 +101,7 @@ Eijirou Kirishima - Эйдзиро Киришима
 
 ---
 ## Enji Todoroki (Endeavor) - Эндзи Тодороки
-Enji Todoroki (Endeavor) - Эндзи Тодороки
+[Enji Todoroki (Endeavor) - Эндзи Тодороки](https://shikimori.one/characters/141624-enji-todoroki)
 
 ![Enji Todoroki | 200](<https://desu.shikimori.one/uploads/poster/characters/141624/main-bb187033a57c6314adcc769a51318856.webp>)
 
@@ -109,7 +109,7 @@ Enji Todoroki (Endeavor) - Эндзи Тодороки
 
 ---
 ## Fumikage Tokoyami - Фумикагэ Токоями
-Fumikage Tokoyami - Фумикагэ Токоями
+[Fumikage Tokoyami - Фумикагэ Токоями](https://shikimori.one/characters/129826-fumikage-tokoyami)
 
 ![Fumikage Tokoyami | 200](<https://desu.shikimori.one/uploads/poster/characters/129826/main-272c020e47b5ad160c13354fd86b9dbb.webp>)
 
@@ -117,7 +117,7 @@ Fumikage Tokoyami - Фумикагэ Токоями
 
 ---
 ## Hanta Sero - Ханта Сэро
-Hanta Sero - Ханта Сэро
+[Hanta Sero - Ханта Сэро](https://shikimori.one/characters/138884-hanta-sero)
 
 ![Hanta Sero | 200](<https://desu.shikimori.one/uploads/poster/characters/138884/main-0425e5ac226c0f05ea5f78e18e98fe5b.webp>)
 
@@ -133,7 +133,7 @@ Hanta Sero - Ханта Сэро
 
 ---
 ## Himiko Toga - Химико Тога
-Himiko Toga - Химико Тога
+[Himiko Toga - Химико Тога](https://shikimori.one/characters/135879-himiko-toga)
 
 ![Himiko Toga | 200](<https://desu.shikimori.one/uploads/poster/characters/135879/main-d26b9d0947f2b21197aab0db4b1d68c1.webp>)
 
@@ -149,7 +149,7 @@ Himiko Toga - Химико Тога
 
 ---
 ## Hizashi Yamada (Present Mic) - Хизаши Ямада
-Hizashi Yamada (Present Mic) - Хизаши Ямада
+[Hizashi Yamada (Present Mic) - Хизаши Ямада](https://shikimori.one/characters/139041-hizashi-yamada)
 
 ![Hizashi Yamada (Present Mic) | 200](<https://desu.shikimori.one/uploads/poster/characters/139041/main-a79ba5802d1c8d7fbcde07af94406c94.webp>)
 
@@ -157,7 +157,7 @@ Hizashi Yamada (Present Mic) - Хизаши Ямада
 
 ---
 ## Izuku Midoriya - Идзуку Мидория
-Izuku Midoriya - Идзуку Мидория
+[Izuku Midoriya - Идзуку Мидория](https://shikimori.one/characters/117909-izuku-midoriya)
 
 ![Izuku Midoriya | 200](<https://desu.shikimori.one/uploads/poster/characters/117909/main-bc080898cd4fa421833a565d13f45c11.webp>)
 
@@ -165,7 +165,7 @@ Izuku Midoriya - Идзуку Мидория
 
 ---
 ## Katsuki Bakugou - Кацуки Бакуго
-Katsuki Bakugou - Кацуки Бакуго
+[Katsuki Bakugou - Кацуки Бакуго](https://shikimori.one/characters/117911-katsuki-bakugou)
 
 ![Katsuki Bakugou | 200](<https://desu.shikimori.one/uploads/poster/characters/117911/main-e9405efdf0fde9d1568696ec4d5a1ee8.webp>)
 
@@ -173,7 +173,7 @@ Katsuki Bakugou - Кацуки Бакуго
 
 ---
 ## Keigo Takami (Hawks) - Кэйго Таками
-Keigo Takami (Hawks) - Кэйго Таками
+[Keigo Takami (Hawks) - Кэйго Таками](https://shikimori.one/characters/162597-keigo-takami)
 
 ![Keigo Takami | 200](<https://desu.shikimori.one/uploads/poster/characters/162597/main-f00105a40135311037a2c018d1c0b88c.webp>)
 
@@ -189,7 +189,7 @@ Keigo Takami (Hawks) - Кэйго Таками
 
 ---
 ## Kouji Kouda (Koda) - Кодзи Кода
-Kouji Kouda (Koda) - Кодзи Кода
+[Kouji Kouda (Koda) - Кодзи Кода](https://shikimori.one/characters/138886-kouji-kouda)
 
 ![Kouji Kouda (Koda) | 200](<https://desu.shikimori.one/uploads/poster/characters/138886/main-67e589f706ffb186476de0d4c490c745.webp>)
 
@@ -197,7 +197,7 @@ Kouji Kouda (Koda) - Кодзи Кода
 
 ---
 ## Kyouka Jirou - Кёка Дзиро
-Kyouka Jirou - Кёка Дзиро
+[Kyouka Jirou - Кёка Дзиро](https://shikimori.one/characters/138638-kyouka-jirou)
 
 ![Kyouka Jirou | 200](<https://desu.shikimori.one/uploads/poster/characters/138638/main-ec812f2b2433e1c55c229dac611db105.webp>)
 
@@ -205,7 +205,7 @@ Kyouka Jirou - Кёка Дзиро
 
 ---
 ## Mashirao Ojiro - Масирао Одзиро
-Mashirao Ojiro - Масирао Одзиро
+[Mashirao Ojiro - Масирао Одзиро](https://shikimori.one/characters/138883-mashirao-ojiro)
 
 ![Mashirao Ojiro | 200](<https://desu.shikimori.one/uploads/poster/characters/138883/main-2f6df44d83b6e5e828ce533d8882c0ac.webp>)
 
@@ -221,7 +221,7 @@ Mashirao Ojiro - Масирао Одзиро
 
 ---
 ## Mezou Shouji (Shoji) - Мэдзо Сёдзи
-Mezou Shouji (Shoji) - Мэдзо Сёдзи
+[Mezou Shouji (Shoji) - Мэдзо Сёдзи](https://shikimori.one/characters/138636-mezou-shouji)
 
 ![Mezou Shouji (Shoji) | 200](<https://desu.shikimori.one/uploads/poster/characters/138636/main-baf1f16d945bce8e7866b05a6294c82c.webp>)
 
@@ -229,7 +229,7 @@ Mezou Shouji (Shoji) - Мэдзо Сёдзи
 
 ---
 ## Mina Ashido - Мина Ашидо
-Mina Ashido - Мина Ашидо
+[Mina Ashido - Мина Ашидо](https://shikimori.one/characters/125318-mina-ashido)
 
 ![Mina Ashido | 200](<https://desu.shikimori.one/uploads/poster/characters/125318/main-67d6ac2914d395364cc81f28d860faa4.webp>)
 
@@ -237,7 +237,7 @@ Mina Ashido - Мина Ашидо
 
 ---
 ## Minoru Mineta - Минору Минэта
-Minoru Mineta - Минору Минэта
+[Minoru Mineta - Минору Минэта](https://shikimori.one/characters/119521-minoru-mineta)
 
 ![Minoru Mineta | 200](<https://desu.shikimori.one/uploads/poster/characters/119521/main-6514ce59d9480c8d0dc0ff2eb21757af.webp>)
 
@@ -245,7 +245,7 @@ Minoru Mineta - Минору Минэта
 
 ---
 ## Mirio Toogata - Мирио Тогата
-Mirio Toogata - Мирио Тогата
+[Mirio Toogata - Мирио Тогата](https://shikimori.one/characters/149296-mirio-toogata)
 
 ![Mirio Toogata | 200](<https://desu.shikimori.one/uploads/poster/characters/149296/main-4ff9f26632000eec520e30c4b2515a98.webp>)
 
@@ -253,7 +253,7 @@ Mirio Toogata - Мирио Тогата
 
 ---
 ## Momo Yaoyorozu - Момо Яоёрозу
-Momo Yaoyorozu - Момо Яоёрозу
+[Momo Yaoyorozu - Момо Яоёрозу](https://shikimori.one/characters/119321-momo-yaoyorozu)
 
 ![Momo Yaoyorozu | 200](<https://desu.shikimori.one/uploads/poster/characters/119321/main-7d25f10cbca37add5ddb36c963cbe094.webp>)
 
@@ -261,7 +261,7 @@ Momo Yaoyorozu - Момо Яоёрозу
 
 ---
 ## Naomasa Tsukauchi - Наомаса Цукаучи
-Naomasa Tsukauchi - Наомаса Цукаучи
+[Naomasa Tsukauchi - Наомаса Цукаучи](https://shikimori.one/characters/142021-naomasa-tsukauchi)
 
 ![Naomasa Tsukauchi | 200](<https://desu.shikimori.one/uploads/poster/characters/142021/main-7948583621bbc2f64fd6e09152eb6e60.webp>)
 
@@ -269,7 +269,7 @@ Naomasa Tsukauchi - Наомаса Цукаучи
 
 ---
 ## Nejire Hadou - Нэдзирэ Хадо
-Nejire Hadou - Нэдзирэ Хадо
+[Nejire Hadou - Нэдзирэ Хадо](https://shikimori.one/characters/149909-nejire-hadou)
 
 ![Nejire Hadou | 200](<https://desu.shikimori.one/uploads/poster/characters/149909/main-83ced6c42926ed776a05ebea28cfb34c.webp>)
 
@@ -285,7 +285,7 @@ Nejire Hadou - Нэдзирэ Хадо
 
 ---
 ## Principal Nezu - Директор Нэдзу
-Principal Nezu - Директор Нэдзу
+[Principal Nezu - Директор Нэдзу](https://shikimori.one/characters/140084-nezu)
 
 ![Principal Nezu | 200](<https://desu.shikimori.one/uploads/poster/characters/140084/main-33ec5b83f5524a80e3d1e44efb64b01e.webp>)
 
@@ -293,7 +293,7 @@ Principal Nezu - Директор Нэдзу
 
 ---
 ## Rikidou Satou - Рикидо Сато
-Rikidou Satou - Рикидо Сато
+[Rikidou Satou - Рикидо Сато](https://shikimori.one/characters/138885-rikidou-satou)
 
 ![Rikidou Satou | 200](<https://desu.shikimori.one/uploads/poster/characters/138885/main-e95cb1747dea91508c13e0c1bb04a316.webp>)
 
@@ -301,7 +301,7 @@ Rikidou Satou - Рикидо Сато
 
 ---
 ## Rumi Usagiyama - Руми Усагияма
-Rumi Usagiyama - Руми Усагияма
+[Rumi Usagiyama - Руми Усагияма](https://shikimori.one/characters/162596-rumi-usagiyama)
 
 ![Rumi Usagiyama | 200](<https://desu.shikimori.one/uploads/poster/characters/162596/main-698623e8e1821c531b7cbff7edc70045.webp>)
 
@@ -325,7 +325,7 @@ Rumi Usagiyama - Руми Усагияма
 
 ---
 ## Shinya Kamihara - Синъя Камихара
-Shinya Kamihara - Синъя Камихара
+[Shinya Kamihara - Синъя Камихара](https://shikimori.one/characters/149896-shinya-kamihara)
 
 ![Shinya Kamihara | 200](<https://desu.shikimori.one/uploads/poster/characters/149896/main-7a1f01c8165bb0ece8418b9bc259f473.webp>)
 
@@ -333,7 +333,7 @@ Shinya Kamihara - Синъя Камихара
 
 ---
 ## Shouta Aizawa - Сёта Айдзава
-Shouta Aizawa - Сёта Айдзава
+[Shouta Aizawa - Сёта Айдзава](https://shikimori.one/characters/117915-shouta-aizawa)
 
 ![Shouta Aizawa | 200](<https://desu.shikimori.one/uploads/poster/characters/117915/main-893e8d0b62138f3f3114fea370a805ea.webp>)
 
@@ -341,7 +341,7 @@ Shouta Aizawa - Сёта Айдзава
 
 ---
 ## Shouto Todoroki - Сёто Тодороки
-Shouto Todoroki - Сёто Тодороки
+[Shouto Todoroki - Сёто Тодороки](https://shikimori.one/characters/118489-shouto-todoroki)
 
 ![Shouto Todoroki | 200](<https://desu.shikimori.one/uploads/poster/characters/118489/main-da1b273c670c27e7d9def3c80107e873.webp>)
 
@@ -373,7 +373,7 @@ Shouto Todoroki - Сёто Тодороки
 
 ---
 ## Tamaki Amajiki - Тамаки Амадзики
-Tamaki Amajiki - Тамаки Амадзики
+[Tamaki Amajiki - Тамаки Амадзики](https://shikimori.one/characters/149910-tamaki-amajiki)
 
 ![Tamaki Amajiki | 200](<https://desu.shikimori.one/uploads/poster/characters/149910/main-a2cf9934f6adbb0816cde94df0183850.webp>)
 
@@ -381,7 +381,7 @@ Tamaki Amajiki - Тамаки Амадзики
 
 ---
 ## Tenya Iida - Тэнъя Ида
-Tenya Iida - Тэнъя Ида
+[Tenya Iida - Тэнъя Ида](https://shikimori.one/characters/117913-tenya-iida)
 
 ![Tenya Iida | 200](<https://desu.shikimori.one/uploads/poster/characters/117913/main-20e1a861d741f98b2df290d7120bf3f5.webp>)
 
@@ -405,7 +405,7 @@ Tenya Iida - Тэнъя Ида
 
 ---
 ## Tomura Shigaraki - Томура Шигараки
-Tomura Shigaraki - Томура Шигараки
+[Tomura Shigaraki - Томура Шигараки](https://shikimori.one/characters/122103-tomura-shigaraki)
 
 ![Tomura Shigaraki | 200](<https://desu.shikimori.one/uploads/poster/characters/122103/main-53d473918f5767fd09f912f280611bbd.webp>)
 
@@ -413,7 +413,7 @@ Tomura Shigaraki - Томура Шигараки
 
 ---
 ## Tooru Hagakure - Тору Хагакурэ
-Tooru Hagakure - Тору Хагакурэ
+[Tooru Hagakure - Тору Хагакурэ](https://shikimori.one/characters/133730-tooru-hagakure)
 
 ![Tooru Hagakure | 200](<https://desu.shikimori.one/uploads/poster/characters/133730/main-c71eeb1ab6ea628597c093a7cd6e1789.webp>)
 
@@ -421,7 +421,7 @@ Tooru Hagakure - Тору Хагакурэ
 
 ---
 ## Tsunagu Hakamada - Цунагу Хакамата
-Tsunagu Hakamada - Цунагу Хакамата
+[Tsunagu Hakamada - Цунагу Хакамата](https://shikimori.one/characters/149897-tsunagu-hakamada)
 
 ![Tsunagu Hakamada | 200](<https://desu.shikimori.one/uploads/poster/characters/149897/main-f51eb5311f5894d8c78701f095836296.webp>)
 
@@ -429,7 +429,7 @@ Tsunagu Hakamada - Цунагу Хакамата
 
 ---
 ## Tsuyu Asui - Цую Асуй
-Tsuyu Asui - Цую Асуй
+[Tsuyu Asui - Цую Асуй](https://shikimori.one/characters/119209-tsuyu-asui)
 
 ![Tsuyu Asui | 200](<https://desu.shikimori.one/uploads/poster/characters/119209/main-25f7581ce7f9e42c8d6339d672127d56.webp>)
 
@@ -437,7 +437,7 @@ Tsuyu Asui - Цую Асуй
 
 ---
 ## Yuuga Aoyama - Юга Аояма
-Yuuga Aoyama - Юга Аояма
+[Yuuga Aoyama - Юга Аояма](https://shikimori.one/characters/117919-yuuga-aoyama)
 
 ![Yuuga Aoyama | 200](<https://desu.shikimori.one/uploads/poster/characters/117919/main-26362141acdfd79a18c13cf47a3baa46.webp>)
 
