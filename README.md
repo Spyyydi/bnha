@@ -15,9 +15,13 @@
 1. [Izuku Midoriya - Идзуку Мидория](#izuku-midoriya---идзуку-мидория)
 1. [Katsuki Bakugou - Кацуки Бакуго](#katsuki-bakugou---кацуки-бакуго)
 1. [Keigo Takami (Hawks) - Кэйго Таками](#keigo-takami-hawks---кэйго-таками)
+1. [Ken Ishiyama (Cementos) - Кэн Исияма](#ken-ishiyama-cementos---кэн-исияма)
 1. [Kota Izumi - Кота Идзуми](#kota-izumi---кота-идзуми)
 1. [Kouji Kouda (Koda) - Кодзи Кода](#kouji-kouda-koda---кодзи-кода)
+1. [Kurogiri - Курогири](#kurogiri---курогири)
 1. [Kyouka Jirou - Кёка Дзиро](#kyouka-jirou---кёка-дзиро)
+1. [Manga Fukidashi - Манга Фукидаси](#manga-fukidashi---манга-фукидаси)
+1. [Masaki Mizushima (Manual) - Масаки Мидзусима](#masaki-mizushima-manual---масаки-мидзусима)
 1. [Mashirao Ojiro - Масирао Одзиро](#mashirao-ojiro---масирао-одзиро)
 1. [Mei Hatsume - Мэй Хацумэ](#mei-hatsume---мэй-хацумэ)
 1. [Mezou Shouji (Shoji) - Мэдзо Сёдзи](#mezou-shouji-shoji---мэдзо-сёдзи)
@@ -26,6 +30,7 @@
 1. [Mirio Toogata - Мирио Тогата](#mirio-toogata---мирио-тогата)
 1. [Momo Yaoyorozu - Момо Яоёрозу](#momo-yaoyorozu---момо-яоёрозу)
 1. [Naomasa Tsukauchi - Наомаса Цукаучи](#naomasa-tsukauchi---наомаса-цукаучи)
+1. [Neito Monoma - Нэйто Монома](#neito-monoma---нэйто-монома)
 1. [Nejire Hadou - Нэдзирэ Хадо](#nejire-hadou---нэдзирэ-хадо)
 1. [Ochako Uraraka (Ochaco) - Очако Урарака](#ochako-uraraka-ochaco---очако-урарака)
 1. [Principal Nezu - Директор Нэдзу](#principal-nezu---директор-нэдзу)
@@ -33,6 +38,7 @@
 1. [Rumi Usagiyama - Руми Усагияма](#rumi-usagiyama---руми-усагияма)
 1. [Ryuuko Tatsuma (Ryukyu) - Рюко Тацума](#ryuuko-tatsuma-ryukyu---рюко-тацума)
 1. [Sansa Tamakawa - Санса Тамакава](#sansa-tamakawa---санса-тамакава)
+1. [Sekijirou Kan (Vlad King) - Сэкидзиро Кан](#sekijirou-kan-vlad-king---сэкидзиро-кан)
 1. [Shinya Kamihara - Синъя Камихара](#shinya-kamihara---синъя-камихара)
 1. [Shouta Aizawa - Сёта Айдзава](#shouta-aizawa---сёта-айдзава)
 1. [Shouto Todoroki - Сёто Тодороки](#shouto-todoroki---сёто-тодороки)
@@ -49,6 +55,7 @@
 1. [Tsuyu Asui - Цую Асуй](#tsuyu-asui---цую-асуй)
 1. [Yuuga Aoyama - Юга Аояма](#yuuga-aoyama---юга-аояма)
 1. [Yuu Takeyama (Mt. Lady) - Ю Такэяма](#yuu-takeyama-mt-lady---ю-такэяма)
+1. [Yuyu Haya - Юю Хая](#yuyu-haya---юю-хая)
 
 ---
 
@@ -180,6 +187,14 @@
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
+## Ken Ishiyama (Cementos) - Кэн Исияма
+[Ken Ishiyama (Cementos) - Кэн Исияма](https://shikimori.one/characters/121737-ken-ishiyama)
+
+![Ken Ishiyama | 200](<https://desu.shikimori.one/uploads/poster/characters/121737/main-8bc90bef7f3b5b80a34e8c5e81cf9b6a.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
 ## Kota Izumi - Кота Идзуми
 [Kota Izumi - Кота Идзуми](https://shikimori.one/characters/151552-kouta-izumi)
 
@@ -196,10 +211,34 @@
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
+## Kurogiri - Курогири
+[Kurogiri - Курогири](https://shikimori.one/characters/140809-kurogiri)
+
+![Kurogiri | 200](<https://desu.shikimori.one/uploads/poster/characters/140809/main-141f1aebcb7119eddfaf74e5f5dd80ed.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
 ## Kyouka Jirou - Кёка Дзиро
 [Kyouka Jirou - Кёка Дзиро](https://shikimori.one/characters/138638-kyouka-jirou)
 
 ![Kyouka Jirou | 200](<https://desu.shikimori.one/uploads/poster/characters/138638/main-ec812f2b2433e1c55c229dac611db105.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Manga Fukidashi - Манга Фукидаси
+[Manga Fukidashi - Манга Фукидаси](https://shikimori.one/characters/149908-manga-fukidashi)
+
+![Manga Fukidashi | 200](<https://desu.shikimori.one/uploads/poster/characters/149908/main-03d13edebb4e7e6e84eb36b54e527f49.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Masaki Mizushima (Manual) - Масаки Мидзусима
+[Masaki Mizushima (Manual) - Масаки Мидзусима](https://shikimori.one/characters/151548-masaki-mizushima)
+
+![Masaki Mizushima | 200](<https://desu.shikimori.one/uploads/poster/characters/151548/main-a6509aa2c617a686b605b732fa49a67f.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
@@ -268,6 +307,14 @@
 [↑ Table of contents ↑](#table-of-contents)
 
 ---
+## Neito Monoma - Нэйто Монома
+[Neito Monoma - Нэйто Монома](https://shikimori.one/characters/125092-neito-monoma)
+
+![Neito Monoma | 200](<https://desu.shikimori.one/uploads/poster/characters/125092/main-4edd533be2b3e36d04c7135c3a9aecee.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
 ## Nejire Hadou - Нэдзирэ Хадо
 [Nejire Hadou - Нэдзирэ Хадо](https://shikimori.one/characters/149909-nejire-hadou)
 
@@ -320,6 +367,14 @@
 [Sansa Tamakawa - Санса Тамакава](https://shikimori.one/characters/142022-sansa-tamakawa)
 
 ![Sansa Tamakawa | 200](<https://desu.shikimori.one/uploads/poster/characters/142022/main-af87eb453dba40a72f48d773238a0a9e.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Sekijirou Kan (Vlad King) - Сэкидзиро Кан
+[Sekijirou Kan (Vlad King) - Сэкидзиро Кан](https://shikimori.one/characters/141629-sekijirou-kan)
+
+![Sekijirou Kan | 200](<https://desu.shikimori.one/uploads/poster/characters/141629/main-a50e3a6ba2dc8f00b14b6219b7e4d5ec.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
@@ -448,6 +503,14 @@
 [Yuu Takeyama (Mt. Lady) - Ю Такэяма](https://shikimori.one/characters/139042-yuu-takeyama)
 
 ![Yuu Takeyama | 200](<https://desu.shikimori.one/uploads/poster/characters/139042/main-71ed4ade6fbadaacb3ebb5157bb1b19d.webp>)
+
+[↑ Table of contents ↑](#table-of-contents)
+
+---
+## Yuyu Haya - Юю Хая
+[Yuyu Haya - Юю Хая](https://shikimori.one/characters/178972-yuyu-haya)
+
+![Yuyu Haya | 200](<https://desu.shikimori.one/uploads/poster/characters/178972/main-d94582cfe21f323aa9d51b6cc05b019f.webp>)
 
 [↑ Table of contents ↑](#table-of-contents)
 
